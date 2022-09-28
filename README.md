@@ -14,14 +14,15 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://natiaker.github.io/QR-code-component/)
+- Solution URL: [solution URL](https://github.com/natiaker/NFT-preview-card-component.git)
+- Live Site URL: [Live site URL](https://natiaker.github.io/NFT-preview-card-component/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Mobile first
 
 ## Author
 
